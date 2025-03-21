@@ -65,8 +65,7 @@ A **React-based Video Library App** that allows users to browse categorized modu
 ## 🤝 Contributing
 Feel free to fork the repo and submit pull requests with improvements! 🎉
 
-## 📜 License
-This project is licensed under the MIT License. See `LICENSE` for details.
+
 
 ---
 🚀 **Happy Coding!**
